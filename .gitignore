@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+novel_state.json
